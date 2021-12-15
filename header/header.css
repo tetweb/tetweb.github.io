@@ -1,0 +1,6 @@
+.css-nav li {
+    margin-left: 2rem;
+    text-decoration: none;
+    color: #242829;
+    transition: all 0.3s ease;
+}
