@@ -1,6 +1,29 @@
-.css-nav li {
+@media only screen and (max-width: 800px)
+{
+    .icon-selector {
+        font-size: 0.8rem;
+    }
+
+    #header-logo-1
+    {
+        display: block;
+        margin-left: 110%;
+        margin-top:6%;
+        width: 12rem;
+    }
+
+}
+
+
+
+.css-nav li 
+{
     margin-left: 2rem;
     text-decoration: none;
     color: #242829;
     transition: all 0.3s ease;
+}
+.below-header-part
+{
+    margin-bottom:2rem;
 }
