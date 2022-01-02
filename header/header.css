@@ -1,0 +1,51 @@
+@media only screen and (max-width: 800px)
+{
+    .icon-selector {
+        font-size: 0.8rem;
+    }
+
+    #header-logo-1
+    {
+        display: block;
+        margin-left: 120%;
+        margin-top:4%;
+        width: 10rem;
+    }
+    .devcre-res{
+        margin-left:40px !important;
+        
+    }
+    .our-nav
+    {
+        margin-right:100%;
+        margin-top:-10rem;
+    }
+    
+}
+
+
+
+.css-nav li 
+{
+    margin-left: 2rem;
+    text-decoration: none;
+    color: #242829;
+    transition: all 0.3s ease;
+}
+.below-header-part
+{
+    margin-bottom:2rem;
+}
+.py-24
+{
+    margin-top:-3rem;
+    margin-bottom:-2rem;
+}
+.developer-credit
+{
+    margin-left:40%;
+}
+.add-up-home
+{
+    margin-top:-4rem !important;
+}
